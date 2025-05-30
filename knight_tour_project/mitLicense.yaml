@@ -1,0 +1,24 @@
+
+---
+
+## 📘 README.md
+
+```markdown
+# ♞ Passeio do Cavalo (Knight's Tour)
+
+Este projeto resolve o problema do **Passeio do Cavalo** utilizando o paradigma de **Backtracking**.
+
+## 📌 O que é?
+
+Dado um tabuleiro `n x n`, o cavalo deve visitar todas as casas exatamente uma vez, iniciando de uma posição inicial (padrão: canto superior esquerdo).
+
+## 🧠 Lógica
+
+Utiliza **backtracking** para explorar todos os caminhos possíveis, marcando cada casa visitada com o número do movimento.
+
+## 🚀 Como executar
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/M4rcosVO/knight_tour_project#
+cd knight-tour
